@@ -1,8 +1,8 @@
 <p align="center"><img src="https://github.com/DivyenduDutta/A-Snake-In-Time/blob/master/Assets/Textures/GameTitle.png" alt="A-Snake-In-Time feature"></p>
 
-A Snake In TIme is basically the ol snake game but now our snake can rewind time on every death and has the ability to slow down time. But such power comes at a cost, use it wisely!!
+A Snake In TIme is basically the ol' snake game but now our snake can rewind time on every death and has the ability to slow down time. But such power comes at a cost, use it wisely!!
 
-Play it on<a href="https://divine-sense.itch.io/asnakeintime">Itch</a>.
+Play it on <a href="https://divine-sense.itch.io/asnakeintime">Itch</a>.
 
 Built using Unity's URP Scriptable Render pipeline, allowing us to use some really cool 2D lights.
 
