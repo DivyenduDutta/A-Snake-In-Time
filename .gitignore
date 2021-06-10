@@ -1,0 +1,10 @@
+﻿android build
+.vs
+windows build
+web build
+.vsconfig
+Assembly-CSharp.csproj
+Main Snake Game.sln
+UserSettings
+Library
+obj
